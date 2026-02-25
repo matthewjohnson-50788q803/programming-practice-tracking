@@ -103,3 +103,5 @@
 | 20260220       | (Medium)   | 80. Remove Duplicates From Sorted Array II                                 |
 | 20260222       | (Medium)   | 81. Search in Rotated Sorted Array II                                      |
 | 20260223       | (Medium)   | 82. Remove Duplicates From Sorted List II                                  |
+| 20260224       | (Easy)     | 222. Count Complete Tree Nodes                                             |
+
