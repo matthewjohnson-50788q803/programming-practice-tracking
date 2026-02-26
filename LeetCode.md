@@ -104,4 +104,5 @@
 | 20260222       | (Medium)   | 81. Search in Rotated Sorted Array II                                      |
 | 20260223       | (Medium)   | 82. Remove Duplicates From Sorted List II                                  |
 | 20260224       | (Easy)     | 222. Count Complete Tree Nodes                                             |
+| 20260225       | (Hard)     | 85. Maximal Rectangle                                                      |
 
