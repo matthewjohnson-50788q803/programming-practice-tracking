@@ -106,4 +106,5 @@
 | 20260224       | (Easy)     | 222. Count Complete Tree Nodes                                             |
 | 20260225       | (Hard)     | 85. Maximal Rectangle                                                      |
 | 20260226       | (Medium)   | 86. Partition List                                                         |
+| 20260227       | (Easy)     | 225. Implement Stack Using Queues                                          |
 
