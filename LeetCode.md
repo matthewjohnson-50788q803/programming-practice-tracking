@@ -108,4 +108,5 @@
 | 20260226       | (Medium)   | 86. Partition List                                                         |
 | 20260227       | (Easy)     | 225. Implement Stack Using Queues                                          |
 | 20260228       | (Easy)     | 226. Invert Binary Tree                                                    |
+| 20260301       | (Easy)     | 228. Summary Ranges                                                        |
 
