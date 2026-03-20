@@ -123,4 +123,5 @@
 | 20260314       | (Easy)     | 290. Word Pattern                                                          |
 | 20260315       | (Easy)     | 292. Nim Game                                                              |
 | 20260318       | (Easy)     | 326. Power of Three                                                        |
+| 20260319       | (Easy)     | 338. Counting Bits                                                         |
 
