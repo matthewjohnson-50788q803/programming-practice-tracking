@@ -124,4 +124,5 @@
 | 20260315       | (Easy)     | 292. Nim Game                                                              |
 | 20260318       | (Easy)     | 326. Power of Three                                                        |
 | 20260319       | (Easy)     | 338. Counting Bits                                                         |
+| 20260320       | (Easy)     | 342. Power of Four                                                         |
 
