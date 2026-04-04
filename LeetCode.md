@@ -137,4 +137,5 @@
 | 20260331       | (Easy)     | 367. Valid Perfect Square                                                  |
 | 20260401       | (Easy)     | 374. Guess Number Higher or Lower                                          |
 | 20260402       | (Easy)     | 383. Ransom Note                                                           |
+| 20260403       | (Easy)     | 387. First Unique Character in a String                                    |
 
