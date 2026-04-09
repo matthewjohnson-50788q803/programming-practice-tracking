@@ -140,5 +140,6 @@
 | 20260403       | (Easy)     | 387. First Unique Character in a String                                    |
 | 20260405       | (Easy)     | 389. Find the Difference                                                   |
 | 20260406       | (Easy)     | 392. Is Subsequence                                                        |
-| 20260407       | (Esay)     | 401. Binary Watch                                                          |
+| 20260407       | (Easy)     | 401. Binary Watch                                                          |
+| 20260408       | (Easy)     | 404. Sum of Left Leaves                                                    |
 
