@@ -144,4 +144,5 @@
 | 20260408       | (Easy)     | 404. Sum of Left Leaves                                                    |
 | 20260409       | (Easy)     | 405. Convert a Number to Hexadecimal                                       |
 | 20260410       | (Easy)     | 410. Longest Palindrome                                                    |
+| 20260411       | (Easy)     | 412. Fizz Buzz                                                             |
 
