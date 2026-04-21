@@ -152,4 +152,5 @@
 | 20260417       | (Easy)     | 441. Arranging Coins                                                       |
 | 20260418       | (Easy)     | 448. Find All Numbers Disappeared in an Array                              |
 | 20260419       | (Easy)     | 455. Assign Cookies                                                        |
+| 20260420       | (Easy)     | 459. Repeated Substring Pattern                                            |
 
