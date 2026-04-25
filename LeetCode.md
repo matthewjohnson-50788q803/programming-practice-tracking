@@ -156,4 +156,5 @@
 | 20260421       | (Easy)     | 461. Hamming Distance                                                      |
 | 20260422       | (Easy)     | 463. Island Perimeter                                                      |
 | 20260423       | (Easy)     | 476. Number Complement                                                     |
+| 20260424       | (Easy)     | 482. License Key Formatting                                                |
 
