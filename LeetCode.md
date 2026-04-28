@@ -159,4 +159,5 @@
 | 20260424       | (Easy)     | 482. License Key Formatting                                                |
 | 20260425       | (Easy)     | 485. Max Consecutive Ones                                                  |
 | 20260426       | (Easy)     | 492. Construct the Rectangle                                               |
+| 20260428       | (Medium)   | 95. Unique Binary Search Trees II                                          |
 
