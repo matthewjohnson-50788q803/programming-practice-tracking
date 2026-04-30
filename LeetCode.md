@@ -160,4 +160,4 @@
 | 20260425       | (Easy)     | 485. Max Consecutive Ones                                                  |
 | 20260426       | (Easy)     | 492. Construct the Rectangle                                               |
 | 20260428       | (Medium)   | 95. Unique Binary Search Trees II                                          |
-
+| 20260429       | (Easy)     | 496. Next Greater Element I                                                |
