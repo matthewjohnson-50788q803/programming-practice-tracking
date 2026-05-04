@@ -163,4 +163,5 @@
 | 20260429       | (Easy)     | 496. Next Greater Element I                                                |
 | 20260430       | (Easy)     | 500. Keyboard Row                                                          |
 | 20260501       | (Easy)     | 501. Find Mode in Binary Search Tree                                       |
+| 20260503       | (Easy)     | 504. Base 7                                                                |
 
