@@ -167,4 +167,5 @@
 | 20260504       | (Easy)     | 506. Relative Ranks                                                        |
 | 20260505       | (Easy)     | 507. Perfect Number                                                        |
 | 20260506       | (Easy)     | 509. Fibonacci Number                                                      |
+| 20260507       | (Easy)     | 520. Detect Capital                                                        |
 
