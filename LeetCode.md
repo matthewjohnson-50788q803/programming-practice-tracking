@@ -166,4 +166,5 @@
 | 20260503       | (Easy)     | 504. Base 7                                                                |
 | 20260504       | (Easy)     | 506. Relative Ranks                                                        |
 | 20260505       | (Easy)     | 507. Perfect Number                                                        |
+| 20260506       | (Easy)     | 509. Fibonacci Number                                                      |
 
