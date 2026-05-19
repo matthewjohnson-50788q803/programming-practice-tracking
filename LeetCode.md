@@ -178,4 +178,5 @@
 | 20260515       | (Easy)     | 557. Reverse Words in a String III                                         |
 | 20260516       | (Easy)     | 559. Maximum Depth of N-ary Tree                                           |
 | 20260517       | (Medium)   | 99. Recover Binary Search Tree                                             |
+| 20260518       | (Easy)     | 561. Array Partition                                                       |
 
